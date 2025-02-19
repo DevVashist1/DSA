@@ -1,0 +1,12 @@
+Arrays 
+- Same type ke elements honge 
+- Contiguous in memory ( Saare same time pe save honge baaaki pointers chp main in detail pata chalega
+- Linear hota hain 
+ 
+Array Assign:
+ int marks[5] = {23, 34, 45, 67, 78}; 
+
+-Isme int ki jagah Double ki bhi array bana skte hain.
+- Variable name ke baad size allot krna hota hain 
+- Curly braces main Array ke data elements likhne hote hain
+
